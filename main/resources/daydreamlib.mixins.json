@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.fish.daydream.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": ["BlockBehaviourMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

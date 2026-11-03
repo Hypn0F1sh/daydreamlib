@@ -1,0 +1,13 @@
+{
+  "itemGroup.daydreamlib": "Example Mod Tab",
+  "block.daydreamlib.example_block": "Example Block",
+  "item.daydreamlib.example_item": "Example Item",
+
+  "daydreamlib.configuration.title": "DaydreamLib Configs",
+  "daydreamlib.configuration.section.daydreamlib.common.toml": "DaydreamLib Configs",
+  "daydreamlib.configuration.section.daydreamlib.common.toml.title": "DaydreamLib Configs",
+  "daydreamlib.configuration.items": "Item List",
+  "daydreamlib.configuration.logDirtBlock": "Log Dirt Block",
+  "daydreamlib.configuration.magicNumberIntroduction": "Magic Number Text",
+  "daydreamlib.configuration.magicNumber": "Magic Number"
+}
